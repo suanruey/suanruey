@@ -1,6 +1,6 @@
 # About myself
 
-Hi, I’m Suan Ruey
+Hi, I’m Suan Ruey.
 I’m interested in embedded programming, OpenCV exercises and anything that is fun!
 I’m currently learning how to program Arduino Uno and Raspberry pi for network programmability and routing protocols.
 
