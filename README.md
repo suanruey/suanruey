@@ -9,7 +9,7 @@ So, I may update my GitHub page with interesting and my own intepretations of cy
 Please do look forward it in my GitHub page!
 
 #### Inactive progress at the moment
-I’m looking to collaborate on any exciting IoT-based embedded projects, and I would like to pitch in any help if possible.
+**I’m looking to collaborate on any exciting IoT-based embedded projects, and I would like to pitch in any help if possible.
 
 How to reach me: Please reach me at suanruey@hotmail.com. Do introduce yourself, and let me know you are human!
 
